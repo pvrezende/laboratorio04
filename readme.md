@@ -1,6 +1,4 @@
-# 1. Limpa o conteúdo antigo e escreve o novo README formatado
-# (Execute este bloco de uma vez ou salve o texto no arquivo manualmente)
-Set-Content README.md @"
+
 # 🧩 Desafio: Mini To-Do List com Git e Python
 
 Bem-vindo(a) ao seu **laboratório de Git e Python**!  
